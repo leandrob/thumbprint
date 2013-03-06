@@ -1,0 +1,4 @@
+thumbprint
+==========
+
+Certificate thumbprint calculator
