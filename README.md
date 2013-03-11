@@ -12,4 +12,4 @@ Certificate thumbprint calculator for Node.js
 
 var thumbprint = require('thumbprint');
 
-var result thumbprint.calculate(base64Certificate);
+var result = thumbprint.calculate(base64Certificate);
